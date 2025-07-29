@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@itsukichan/baileys": "^7.3.1",
+    "@js-temporal/polyfill": "^0.5.1",
+    "luxon": "^3.7.1"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "dono": {
+    "nome": "sixx.js",
+    "numero": "258851907875",
+    "prefixos": ["♤", "☆"],
+    "cargo": "Criador",
+    "idioma": "pt-MZ",
+    "rede_social": "@sixx.js"
+  },
+  "bot": {
+    "nome": "LenaBot.js-v0",
+    "numero": "",
+    "prefixos": [".", "!"],
+    "modo": "privado",
+    "status": "online",
+    "versao": "0.0.1-alpha",
+    "linguagem": "JavaScript",
+    "plataforma": "Baileys-Pro",
+    "ativado_em": "2025-07-28"
+  },
+  "config": {
+    "menu": "v1",
+    "prefixo": ".",
+    "satos": [],
+    "auto_bemvindo": true,
+    "anti_fake": true,
+    "modo_antiporn": false,
+    "limite_diario": true,
+    "resposta_erro": "⚠️ Ocorreu um erro, tente novamente.",
+    "hora_local": "África/Maputo",
+    "idioma": "pt-MZ",
+    "logs": true,
+    "canalUrl": "https://whatsapp.com/channel/0029VbB1griI7BeNsOgyvK3s",
+    "idy": "@s.whatsapp.net"
+  },
+  "servidor": {
+    "nome": "VPS-Lena",
+    "sistema": "Ubuntu 22.04",
+    "cpu": "4vCPU",
+    "memoria": "8GB RAM",
+    "armazenamento": "240GB SSD",
+    "uptime": "99.9%"
+  }
+}
